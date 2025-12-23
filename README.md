@@ -4,21 +4,27 @@
 
 ### A Cyberpunk-Themed Endless Runner Game
 
-<video autoplay loop muted playsinline width="100%">
-  <source src="demo/VibeCodingKnights.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Demo
+
+[**▶️ Watch the Demo Video**](https://github.com/frontiertower/VibeCodingKnights/blob/main/demo/VibeCodingKnights.mp4)
+
+*See Vibe Knights in action!*
+
+---
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18.3-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Built with Cline](https://img.shields.io/badge/Built%20with-Cline%20CLI-blue?style=for-the-badge)](https://cline.bot)
 
 </div>
 
 ## 🌟 About
 
 **Vibe Knights** is a fast-paced cyberpunk runner game where you control a knight navigating through a neon-lit dystopian world. Jump over bars, duck under flying dragons, and rack up your high score in this addictive endless runner!
+
+*Built live as a demonstration of AI-assisted development with [Cline CLI](https://cline.bot).*
 
 ## ✨ Features
 
@@ -140,6 +146,8 @@ This project is open source and available under the MIT License.
 ## 🎮 Credits
 
 Built with ❤️ using Next.js and Canvas API
+
+**🤖 Development**: This game was created live as a demonstration using [Cline CLI](https://cline.bot) - an AI coding assistant that helps developers build faster.
 
 ---
 
