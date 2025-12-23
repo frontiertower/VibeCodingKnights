@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --cyber-purple: #9D4EDD;
+  --cyber-purple-light: #C77DFF;
+  --cyber-pink: #FF006E;
+  --cyber-cyan: #00F5FF;
+  --cyber-dark: #0A0A0F;
+  --cyber-darker: #1A1A2E;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: linear-gradient(180deg, #0A0A0F 0%, #1A1A2E 100%);
+  font-family: 'Courier New', monospace;
+}
+
+@layer utilities {
+  .text-neon-purple {
+    color: #C77DFF;
+    text-shadow: 0 0 10px #9D4EDD, 0 0 20px #9D4EDD, 0 0 30px #9D4EDD;
+  }
+  
+  .text-neon-cyan {
+    color: #00F5FF;
+    text-shadow: 0 0 10px #00F5FF, 0 0 20px #00F5FF;
+  }
+
+  .glow-purple {
+    box-shadow: 0 0 20px #9D4EDD, 0 0 40px #9D4EDD;
+  }
+}
