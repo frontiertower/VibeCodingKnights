@@ -6,9 +6,12 @@
 
 ## 🎥 Demo
 
-[**▶️ Watch the Demo Video**](https://github.com/frontiertower/VibeCodingKnights/blob/main/demo/VibeCodingKnights.mp4)
+<video width="100%" autoplay loop muted playsinline controls>
+  <source src="demo/VibeCodingKnights.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-*See Vibe Knights in action!*
+*See Vibe Knights in action - autoplaying demo above!*
 
 ---
 
