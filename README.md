@@ -6,10 +6,7 @@
 
 ## 🎥 Demo
 
-<video width="100%" autoplay loop muted playsinline controls>
-  <source src="demo/VibeCodingKnights.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Vibe Knights Demo](demo/VibeKnightsGame.gif)
 
 *See Vibe Knights in action - autoplaying demo above!*
 
